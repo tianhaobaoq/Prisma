@@ -31,10 +31,8 @@ public class mainPrisma {
 		}
 		
 	}
+
 	
-	/**
-	 * Método que ordena la lista
-	 */
 	public static void ordenarLista() {
 		
 		int n = Prisma.prismalista.size();
